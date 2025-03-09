@@ -1,0 +1,90 @@
+{
+  "main_question": "what is laptop",
+  "sub_questions": [
+    {
+      "question": "what is laptop",
+      "depth": 0,
+      "document_analyses": []
+    }
+  ],
+  "documents": [
+    {
+      "content": "From Wikipedia, the free encyclopedia Personal computer for mobile use For other uses, see Laptop (disambiguation) . A variety of laptops.",
+      "url": "https://en.wikipedia.org/wiki/Laptop",
+      "title": "Laptop - Wikipedia",
+      "source": "en.wikipedia.org",
+      "chunk_length": 138
+    },
+    {
+      "content": "From Wikipedia, the free encyclopedia Lightweight, compact computer with built-in peripherals Not to be confused with Laptop , a microcomputer of a certain form factor, designed for consumer use. This article needs additional citations for verification . Please help improve this article by adding citations to reliable sources . Unsourced material may be challenged and removed.",
+      "url": "https://en.wikipedia.org/wiki/Portable_computer",
+      "title": "Portable computer - Wikipedia",
+      "source": "en.wikipedia.org",
+      "chunk_length": 379
+    },
+    {
+      "content": "From Wikipedia, the free encyclopedia Computer intended for use by an individual person This article is about the general concept of a personal computer (PC). For the specific architecture often meant by PC in industry jargon, loosely synonymous with a DOS or Windows PC, see IBM PC compatible .",
+      "url": "https://en.wikipedia.org/wiki/Personal_computer",
+      "title": "Personal computer - Wikipedia",
+      "source": "en.wikipedia.org",
+      "chunk_length": 295
+    },
+    {
+      "content": "From Wikipedia, the free encyclopedia Physical components of a computer PDP-11 CPU board Computer hardware includes the physical parts of a computer , such as the central processing unit (CPU), random access memory (RAM) , motherboard , computer data storage , graphics card , sound card , and computer case . It includes external devices such as a monitor , mouse , keyboard , and speakers . [ 1 ] [ 2 ] By contrast, software is a set of written instructions that can be stored and run by hardware.",
+      "url": "https://en.wikipedia.org/wiki/Computer_hardware",
+      "title": "Computer hardware - Wikipedia",
+      "source": "en.wikipedia.org",
+      "chunk_length": 499
+    },
+    {
+      "content": "From Wikipedia, the free encyclopedia Class of small and inexpensive laptops For the Psion device, see Psion netBook . An HP Mini netbook computer running Windows XP A netbook is a small-sized laptop computer ; they were primarily sold from 2007 until around 2013, designed mostly as a means of accessing the Internet and being significantly less expensive than regular-sized laptops.",
+      "url": "https://en.wikipedia.org/wiki/Netbook",
+      "title": "Netbook - Wikipedia",
+      "source": "en.wikipedia.org",
+      "chunk_length": 384
+    },
+    {
+      "content": "From Wikipedia, the free encyclopedia This article possibly contains original research . Please improve it by verifying the claims made and adding inline citations . Statements consisting only of original research should be removed.",
+      "url": "https://en.wikipedia.org/wiki/History_of_laptops",
+      "title": "History of laptops - Wikipedia",
+      "source": "en.wikipedia.org",
+      "chunk_length": 232
+    },
+    {
+      "content": "From Wikipedia, the free encyclopedia Parts of this article (those related to brands from some developing countries) need to be updated . Please help update this article to reflect recent events or newly available information. ( September 2024 ) This is a list of laptop brands and manufacturers. Manufacturers [ edit ] This list is incomplete ; you can help by adding missing items .",
+      "url": "https://en.wikipedia.org/wiki/List_of_laptop_brands_and_manufacturers",
+      "title": "List of laptop brands and manufacturers - Wikipedia",
+      "source": "en.wikipedia.org",
+      "chunk_length": 384
+    },
+    {
+      "content": "From Wikipedia, the free encyclopedia History of computing Hardware Hardware 1960s to present Software Software Software configuration management Unix Free software and open-source software Computer science Artificial intelligence Compiler construction Early computer science Operating systems Programming languages Prominent pioneers Software engineering Modern concepts General-purpose CPUs Graphical user interface Internet Laptops Personal computers Video games World Wide Web Cloud Quantum By country Bulgaria Eastern Bloc Poland Romania South America Soviet Union Yugoslavia Timeline of computing before 1950 1950\u20131979 1980\u20131989 1990\u20131999 2000\u20132009 2010\u20132019 2020\u2013present more timelines ... Glossary of computer science Category v t e The history of computer science began long before the modern discipline of computer science , usually appearing in forms like mathematics or physics .",
+      "url": "https://en.wikipedia.org/wiki/History_of_computer_science",
+      "title": "History of computer science - Wikipedia",
+      "source": "en.wikipedia.org",
+      "chunk_length": 891
+    },
+    {
+      "content": "From Wikipedia, the free encyclopedia Study of computation For other uses, see Computer science (disambiguation) . Fundamental areas of computer science Programming language theory Computational complexity theory Artificial intelligence Computer architecture Computer science History Outline Glossary Category v t e Computer science is the study of computation , information , and automation .",
+      "url": "https://en.wikipedia.org/wiki/Computer_science",
+      "title": "Computer science - Wikipedia",
+      "source": "en.wikipedia.org",
+      "chunk_length": 393
+    },
+    {
+      "content": "From Wikipedia, the free encyclopedia Programmable machine that processes data For other uses, see Computer (disambiguation) .",
+      "url": "https://en.wikipedia.org/wiki/Computer",
+      "title": "Computer - Wikipedia",
+      "source": "en.wikipedia.org",
+      "chunk_length": 126
+    },
+    {
+      "content": "From Wikipedia, the free encyclopedia Protection of computer systems from information disclosure, theft or damage Part of a series on Computer hacking History Phreaking Cryptovirology Hacking of consumer electronics List of hackers Hacker culture and ethic Hackathon Hacker Manifesto Hackerspace Hacktivism Maker culture Types of hackers Black hat Grey hat White hat Conferences Black Hat Briefings Chaos Communication Congress DEF CON Hackers on Planet Earth Security BSides ShmooCon Summercon Computer crime Crimeware List of computer criminals Script kiddie Hacking tools Exploit forensics-focused operating systems Payload Social engineering Vulnerability Practice sites HackThisSite Zone-H Malware Rootkit Backdoor Trojan horse Virus Worm Spyware Ransomware Logic bomb Botnet Keystroke logging HIDS Web shell RCE Infostealer Computer security Application security Cloud computing security Network security Groups Anonymous Chaos Computer Club Homebrew Computer Club (defunct) Legion of Doom (defunct) LulzSec (defunct) Masters of Deception (defunct) Red team / Blue team Publications 2600: The Hacker Quarterly Hacker News Nuts and Volts Phrack v t e Operating systems Common features Process management Interrupts Memory management File system Device drivers Networking Security Input/output v t e An example of a physical security measure: a metal lock on the back of a personal computer to prevent hardware tampering.",
+      "url": "https://en.wikipedia.org/wiki/Computer_security",
+      "title": "Computer security - Wikipedia",
+      "source": "en.wikipedia.org",
+      "chunk_length": 1425
+    }
+  ],
+  "session_id": "a3833ba1-0a95-4604-a194-5a25914017a2"
+}

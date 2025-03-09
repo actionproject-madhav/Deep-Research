@@ -1,0 +1,69 @@
+{
+  "main_question": "what is chess",
+  "sub_questions": [
+    {
+      "question": "what is chess",
+      "depth": 0,
+      "document_analyses": []
+    }
+  ],
+  "documents": [
+    {
+      "content": "From Wikipedia, the free encyclopedia For the book by H. J. R. Murray, see A History of Chess . This article needs to be updated . Please help update this article to reflect recent events or newly available information. ( January 2021 ) The 12th-century Lewis chessmen in the collection of the National Museum of Scotland The history of chess can be traced back nearly 1,500 years to its earliest known predecessor, called chaturanga , in India ; its prehistory is the subject of speculation.",
+      "url": "https://en.wikipedia.org/wiki/History_of_chess",
+      "title": "History of chess - Wikipedia",
+      "source": "en.wikipedia.org",
+      "chunk_length": 492
+    },
+    {
+      "content": "From Wikipedia, the free encyclopedia Strategy board game This article is about the Western board game. For other chess games or other uses, see Chess (disambiguation) .",
+      "url": "https://en.wikipedia.org/wiki/Chess",
+      "title": "Chess - Wikipedia",
+      "source": "en.wikipedia.org",
+      "chunk_length": 169
+    },
+    {
+      "content": "From Wikipedia, the free encyclopedia 1913 book by H. J. R. Murray A History of Chess Author H. J. R. Murray Original\u00a0title A History of Chess Language English Subject Chess Published 1913 Publisher Clarendon Press A History of Chess is a book written by H. J. R. Murray (1868\u20131955) and published in 1913.",
+      "url": "https://en.wikipedia.org/wiki/A_History_of_Chess",
+      "title": "A History of Chess - Wikipedia",
+      "source": "en.wikipedia.org",
+      "chunk_length": 305
+    },
+    {
+      "content": "From Wikipedia, the free encyclopedia The history of chess began nearly 1500 years ago, and over the past century and a half the game has changed drastically. No technology or strategy, however, has changed chess as much as the introduction of chess engines . Despite only coming into existence within the previous 70 years, the introduction of chess engines has molded and defined how top chess is played today. Pre-computer era engines (until 1940s) [ edit ] Depiction of 'The Turk'.",
+      "url": "https://en.wikipedia.org/wiki/History_of_chess_engines",
+      "title": "History of chess engines - Wikipedia",
+      "source": "en.wikipedia.org",
+      "chunk_length": 485
+    },
+    {
+      "content": "Help From Wikipedia, the free encyclopedia Wikimedia Commons has media related to History of chess . Subcategories This category has the following 7 subcategories, out of 7 total. C Chess by century (8 C) Chess by year (177 C, 69 P) Chess historians (21 P) F Chess players by former country (6 C) G Chess games (28 P) M Medieval chess (2 C, 11 P) R Chess rivalries (5 P) Pages in category \"History of chess\" The following 66 pages are in this category, out of 66 total.",
+      "url": "https://en.wikipedia.org/wiki/Category:History_of_chess",
+      "title": "Category:History of chess - Wikipedia",
+      "source": "en.wikipedia.org",
+      "chunk_length": 469
+    },
+    {
+      "content": "From Wikipedia, the free encyclopedia Rules of play for the game of chess Staunton style chess pieces. Left to right: king, rook, queen, pawn, knight, bishop The rules of chess (also known as the laws of chess ) govern the play of the game of chess . Chess is a two-player abstract strategy board game . Each player controls sixteen pieces of six types on a chessboard . Each type of piece moves in a distinct way.",
+      "url": "https://en.wikipedia.org/wiki/Rules_of_chess",
+      "title": "Rules of chess - Wikipedia",
+      "source": "en.wikipedia.org",
+      "chunk_length": 414
+    },
+    {
+      "content": "From Wikipedia, the free encyclopedia Chess variant with randomized starting position Chess960 One of 960 possible starting setups. Black 's setup always mirrors White's.",
+      "url": "https://en.wikipedia.org/wiki/Chess960",
+      "title": "Chess960 - Wikipedia",
+      "source": "en.wikipedia.org",
+      "chunk_length": 170
+    },
+    {
+      "content": "Help From Wikipedia, the free encyclopedia Wikimedia Commons has media related to Chess rules . Subcategories This category has only the following subcategory. C Cheating in chess (13 P) Pages in category \"Rules of chess\" The following 20 pages are in this category, out of 20 total. This list may not reflect recent changes .",
+      "url": "https://en.wikipedia.org/wiki/Category:Rules_of_chess",
+      "title": "Category:Rules of chess - Wikipedia",
+      "source": "en.wikipedia.org",
+      "chunk_length": 326
+    }
+  ],
+  "session_id": "be9cb0e7-dc36-4652-8324-627282f528ee"
+}

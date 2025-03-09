@@ -11,8 +11,9 @@ Tired of AI models giving shallow, surface-level answers? **Deep-Research** is a
 With **Deep-Research**, you get **meaningful, well-reasoned, and structured research**—not just quick, shallow AI-generated responses.
 
 ---
-<img width="869" alt="Screenshot 2025-03-08 at 8 25 19 PM" src="https://github.com/user-attachments/assets/558bd6b1-3c0a-46a0-baf1-a5a4b8060fd2" />
-<img width="779" alt="Screenshot 2025-03-08 at 8 25 39 PM" src="https://github.com/user-attachments/assets/2521d4ec-6295-4e18-93c1-5b67275838b7" />
+<img width="869" alt="Screenshot 2025-03-08 at 8 25 19 PM" src="https://github.com/user-attachments/assets/d4c05842-fc17-487a-89e0-46728888c06a" />
+<img width="779" alt="Screenshot 2025-03-08 at 8 25 39 PM" src="https://github.com/user-attachments/assets/04a76c1a-3e11-45fb-8290-5a2ac298c260" />
+
 
 
 

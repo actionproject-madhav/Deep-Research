@@ -106,7 +106,5 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 
 ---
 
-### **Contact**  
-For any inquiries or issues, feel free to open an issue on the repository or contact me directly at [your-email@example.com](mailto:your-email@example.com).
 
 

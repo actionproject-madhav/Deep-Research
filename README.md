@@ -17,7 +17,7 @@ With **Deep-Research**, you get **meaningful, well-reasoned, and structured rese
 
 
 
-## **Getting Started** 🚀
+## **Getting Started** 
 
 ### **Prerequisites**  
 To use **Deep-Research**, you’ll need the following tools and accounts:
